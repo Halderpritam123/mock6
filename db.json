@@ -1,0 +1,12 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "title": "Adarsh Jondhale",
+        "email": "adarshjondhale@example.in",
+        "profile": "/images/homepage/152689876-115246212-1659944528.jpg",
+        "status": "Active",
+        "role": "Admin"
+      }
+    ]
+}
